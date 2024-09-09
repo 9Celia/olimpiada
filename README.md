@@ -19,7 +19,7 @@
 ### **Exemplo de como ficaria o seu README em Markdown:**
 
 ```markdown
-## desvendando Atletas!
+## desvendando Atletas! Imersão Dev co google Gemini
 
 ### O que faz essa aplicação?
 
