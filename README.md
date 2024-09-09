@@ -19,7 +19,7 @@
 ### **Exemplo de como ficaria o seu README em Markdown:**
 
 ```markdown
-## Busca de Atletas Brasileiros
+## desvendando Atletas!
 
 ### O que faz essa aplicação?
 
